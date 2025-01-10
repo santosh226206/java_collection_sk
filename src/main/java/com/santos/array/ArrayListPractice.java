@@ -22,6 +22,8 @@ public class ArrayListPractice {
         st.forEach(student -> {
             System.out.println(student.classaName);
         });
+        st.addAll(2,students);
+        System.out.println("size of st=" + st.stream().count());
         System.out.println(st.contains("Red"));
     }
 
