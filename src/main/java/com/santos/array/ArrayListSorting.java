@@ -4,6 +4,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -18,7 +19,12 @@ public class ArrayListSorting {
             return Integer.parseInt(item2.iD)-Integer.parseInt(item1.iD);
         }));
         filterdStudents.forEach(element->System.out.println(element));
-
+        Comparator<Student> combinedComparator =
+                Comparator.comparing(Student::getScheduleTime)
+                        .thenComparing(Student::getName);
+        filterdStudents.sort(combinedComparator);
+        System.out.println("---------------///////////-------");
+        filterdStudents.stream().limit(5).forEach(item->System.out.println(item));
 
 
     }
