@@ -1,4 +1,4 @@
-package com.santos.array;
+package com.santos.list;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;

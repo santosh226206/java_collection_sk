@@ -1,4 +1,5 @@
-package com.santos.array;
+package com.santos.map;
+
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
@@ -230,3 +231,4 @@ public class Student {
                 '}';
     }
 }
+

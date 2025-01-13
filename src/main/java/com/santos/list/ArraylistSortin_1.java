@@ -1,4 +1,4 @@
-package com.santos.array;
+package com.santos.list;
 
 import java.util.ArrayList;
 import java.util.Comparator;

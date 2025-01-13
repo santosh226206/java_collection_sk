@@ -9,8 +9,5 @@
         <module name="collectionJavaSk" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="collectionJavaSk" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>
