@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e2ed9f2-a554-45e7-be33-d29a375f101c" name="Changes" comment="soting new updateg">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/santos/list/LinkedListPrac_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/list/LinkedListPrac_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/list/LinkedListPrac_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/santos/list/LinkedListPrac_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/santos/list/LinkedListPrac_1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.LinkedListPrac.executor": "Run",
+    "Application.LinkedListPrac_1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -200,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736743876109</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="soting new updateg">
+      <option name="closed" value="true" />
+      <created>1737009513492</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737009513492</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

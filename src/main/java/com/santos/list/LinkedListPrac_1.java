@@ -35,13 +35,13 @@ class Employee{
 public class LinkedListPrac_1 {
     public static void main(String args[]){
         LinkedList<Employee> employees=new LinkedList<>();
-        employees.push(new Employee("Ram",1));
-        employees.push(new Employee("Ravish",2));
-        employees.push(new Employee("Ravi",3));
-        employees.push(new Employee("Raju",4));
-        employees.push(new Employee("Rajesh",5));
-        employees.push(new Employee("Rani",6));
-        employees.push(new Employee("Raj",7));
+        employees.add(new Employee("Ram",1));
+        employees.add(new Employee("Ravish",2));
+        employees.add(new Employee("Ravi",3));
+        employees.add(new Employee("Raju",4));
+        employees.add(new Employee("Rajesh",5));
+        employees.add(new Employee("Rani",6));
+        employees.add(new Employee("Raj",7));
         System.out.println(employees);
     }
 }
