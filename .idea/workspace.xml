@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e2ed9f2-a554-45e7-be33-d29a375f101c" name="Changes" comment="soting new updateg">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/santos/map/linkedHashMap/LinkedHashMapPractise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,9 +73,9 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TreeMapTest1">
-    <configuration name="ArrayListSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.santos.list.ArrayListSorting" />
+  <component name="RunManager" selected="Application.LinkedHashMapPractise">
+    <configuration name="ArraylistSortin_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.santos.list.ArraylistSortin_1" />
       <module name="collectionJavaSk" />
       <extension name="coverage">
         <pattern>
@@ -86,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraylistSortin_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.santos.list.ArraylistSortin_1" />
+    <configuration name="LinkedHashMapPractise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.santos.map.linkedHashMap.LinkedHashMapPractise" />
       <module name="collectionJavaSk" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.santos.list.*" />
+          <option name="PATTERN" value="com.santos.map.linkedHashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedHashMapPractise" />
         <item itemvalue="Application.TreeMapTest1" />
         <item itemvalue="Application.LinkedListPrac_1" />
         <item itemvalue="Application.LinkedListPrac" />
         <item itemvalue="Application.ArraylistSortin_1" />
-        <item itemvalue="Application.ArrayListSorting" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739801773806</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="soting new updateg">
+      <option name="closed" value="true" />
+      <created>1740070076001</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1740070076001</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
