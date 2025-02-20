@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e2ed9f2-a554-45e7-be33-d29a375f101c" name="Changes" comment="soting new updateg">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/santos/map/treemap/TreeMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/santos/map/treemap/TreeMapTest1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -249,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739598256285</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="soting new updateg">
+      <option name="closed" value="true" />
+      <created>1739801773805</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1739801773806</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
