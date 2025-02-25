@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0e2ed9f2-a554-45e7-be33-d29a375f101c" name="Changes" comment="soting new updateg">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/map/linkedHashMap/LinkedHashMapPractise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/map/linkedHashMap/LinkedHashMapPractise.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -288,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740071354224</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="soting new updateg">
+      <option name="closed" value="true" />
+      <created>1740498000652</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1740498000652</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
