@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e2ed9f2-a554-45e7-be33-d29a375f101c" name="Changes" comment="soting new updateg">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/map/linkedHashMap/LinkedHashMapPractise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/map/linkedHashMap/LinkedHashMapPractise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/santos/map/linkedHashMap/LinkedHashMapPractise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/santos/map/linkedHashMap/LinkedHashMapPractise.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +73,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LinkedHashMapPractise">
-    <configuration name="ArraylistSortin_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.santos.list.ArraylistSortin_1" />
+  <component name="RunManager" selected="Application.CreateHashSetExample">
+    <configuration name="CreateHashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.santos.hashset.src.CreateHashSetExample" />
       <module name="collectionJavaSk" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.santos.list.*" />
+          <option name="PATTERN" value="com.santos.hashset.src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CreateHashSetExample" />
         <item itemvalue="Application.LinkedHashMapPractise" />
         <item itemvalue="Application.TreeMapTest1" />
         <item itemvalue="Application.LinkedListPrac_1" />
         <item itemvalue="Application.LinkedListPrac" />
-        <item itemvalue="Application.ArraylistSortin_1" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740498000652</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="soting new updateg">
+      <option name="closed" value="true" />
+      <created>1740498495534</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1740498495534</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
