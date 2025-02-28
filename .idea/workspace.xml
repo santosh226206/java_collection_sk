@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e2ed9f2-a554-45e7-be33-d29a375f101c" name="Changes" comment="soting new updateg">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/santos/queue/src/QueueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/queue/src/IterateOverQueueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/queue/src/IterateOverQueueExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +63,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CreateHashSetExample.executor": "Run",
+    "Application.IterateOverQueueExample.executor": "Run",
     "Application.LinkedHashMapPractise.executor": "Run",
     "Application.LinkedListPrac.executor": "Run",
     "Application.LinkedListPrac_1.executor": "Run",
+    "Application.QueueTest.executor": "Run",
     "Application.TreeMapTest1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -81,13 +85,26 @@
       <recent name="F:\job_switch\collectionJavaSk\src\main\java\com\santos\hashset" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CreateHashSetExample">
+  <component name="RunManager" selected="Application.QueueTest">
     <configuration name="CreateHashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.santos.hashset.src.CreateHashSetExample" />
       <module name="collectionJavaSk" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.santos.hashset.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IterateOverQueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.santos.queue.src.IterateOverQueueExample" />
+      <module name="collectionJavaSk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.santos.queue.src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,25 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListPrac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.santos.list.LinkedListPrac" />
+    <configuration name="QueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.santos.queue.src.QueueTest" />
       <module name="collectionJavaSk" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.santos.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedListPrac_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.santos.list.LinkedListPrac_1" />
-      <module name="collectionJavaSk" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.santos.list.*" />
+          <option name="PATTERN" value="com.santos.queue.src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueueTest" />
+        <item itemvalue="Application.IterateOverQueueExample" />
         <item itemvalue="Application.CreateHashSetExample" />
         <item itemvalue="Application.LinkedHashMapPractise" />
         <item itemvalue="Application.TreeMapTest1" />
-        <item itemvalue="Application.LinkedListPrac_1" />
-        <item itemvalue="Application.LinkedListPrac" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +332,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740671550948</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="soting new updateg">
+      <option name="closed" value="true" />
+      <created>1740755445182</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1740755445182</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
