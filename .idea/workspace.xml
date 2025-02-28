@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0e2ed9f2-a554-45e7-be33-d29a375f101c" name="Changes" comment="soting new updateg">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/queue/src/QueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/queue/src/QueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/map/HashMapPractise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/map/HashMapPractise.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,13 +84,26 @@
       <recent name="F:\job_switch\collectionJavaSk\src\main\java\com\santos\hashset" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QueueTest">
+  <component name="RunManager" selected="Application.HashMapPractise">
     <configuration name="CreateHashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.santos.hashset.src.CreateHashSetExample" />
       <module name="collectionJavaSk" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.santos.hashset.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapPractise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.santos.map.HashMapPractise" />
+      <module name="collectionJavaSk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.santos.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,26 +150,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeMapTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.santos.map.treemap.TreeMapTest1" />
-      <module name="collectionJavaSk" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.santos.map.treemap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMapPractise" />
         <item itemvalue="Application.QueueTest" />
         <item itemvalue="Application.IterateOverQueueExample" />
         <item itemvalue="Application.CreateHashSetExample" />
         <item itemvalue="Application.LinkedHashMapPractise" />
-        <item itemvalue="Application.TreeMapTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +355,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740756658507</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="soting new updateg">
+      <option name="closed" value="true" />
+      <created>1740756943443</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1740756943443</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -371,7 +379,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/santos/map/HashMapPractise.java</url>
-          <line>6</line>
+          <line>7</line>
           <properties class="com.santos.map.HashMapPractise" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
