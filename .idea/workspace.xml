@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e2ed9f2-a554-45e7-be33-d29a375f101c" name="Changes" comment="soting new updateg" />
+    <list default="true" id="0e2ed9f2-a554-45e7-be33-d29a375f101c" name="Changes" comment="soting new updateg">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,12 +71,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/job_switch/collectionJavaSk/src/main/java/com/santos/hashset",
+    "last_opened_file_path": "F:/job_switch/collectionJavaSk/src/main/java/com/santos/queue",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\job_switch\collectionJavaSk\src\main\java\com\santos\queue" />
       <recent name="F:\job_switch\collectionJavaSk\src\main\java\com\santos\hashset" />
     </key>
   </component>
@@ -317,7 +320,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740581425439</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="soting new updateg">
+      <option name="closed" value="true" />
+      <created>1740671550948</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1740671550948</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -327,5 +338,20 @@
     <MESSAGE value="soting new update" />
     <MESSAGE value="soting new updateg" />
     <option name="LAST_COMMIT_MESSAGE" value="soting new updateg" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/santos/map/HashMapPractise.java</url>
+          <line>6</line>
+          <properties class="com.santos.map.HashMapPractise" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
