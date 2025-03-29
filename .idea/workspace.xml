@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e2ed9f2-a554-45e7-be33-d29a375f101c" name="Changes" comment="soting new updateg">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/stream/DuplicateElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/stream/FindMaxElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/stream/StreamPractise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/stream/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/stream/FirstNonRepeated.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/santos/map/HashMapPractise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/santos/map/HashMapPractise.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +64,7 @@
     "Application.CreateHashSetExample.executor": "Run",
     "Application.DuplicateElements.executor": "Run",
     "Application.FindMaxElement.executor": "Run",
+    "Application.FirstNonRepeated.executor": "Run",
     "Application.HashMapPractise.executor": "Run",
     "Application.IterateOverQueueExample.executor": "Run",
     "Application.LinkedHashMapPractise.executor": "Run",
@@ -93,7 +90,7 @@
       <recent name="F:\job_switch\collectionJavaSk\src\main\java\com\santos\hashset" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindMaxElement">
+  <component name="RunManager" selected="Application.FirstNonRepeated">
     <configuration name="DuplicateElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.santos.hashset.src.stream.DuplicateElements" />
       <module name="collectionJavaSk" />
@@ -120,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapPractise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.santos.map.HashMapPractise" />
+    <configuration name="FirstNonRepeated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.santos.hashset.src.stream.FirstNonRepeated" />
       <module name="collectionJavaSk" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.santos.map.*" />
+          <option name="PATTERN" value="com.santos.hashset.src.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstNonRepeated" />
         <item itemvalue="Application.FindMaxElement" />
         <item itemvalue="Application.DuplicateElements" />
         <item itemvalue="Application.WordCount" />
         <item itemvalue="Application.StreamPractise" />
-        <item itemvalue="Application.HashMapPractise" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +377,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740757367057</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="soting new updateg">
+      <option name="closed" value="true" />
+      <created>1743259543568</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1743259543569</updated>
+    </task>
+    <task id="LOCAL-00028" summary="soting new updateg">
+      <option name="closed" value="true" />
+      <created>1743259570065</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1743259570065</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
