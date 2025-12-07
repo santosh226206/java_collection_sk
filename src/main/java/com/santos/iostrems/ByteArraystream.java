@@ -23,7 +23,8 @@ public class ByteArraystream {
                 while(input.read(array)!=-1){
                     String data=new String(array);
                     System.out.println("printing chunks");
-                    System.out.println(data);
+                    //System.out.println(data);
+                    System.out.println("availabe size"+ input.available());
                 }
             // Close the input stream
             input.close();
