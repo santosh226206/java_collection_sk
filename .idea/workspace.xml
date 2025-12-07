@@ -5,51 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e2ed9f2-a554-45e7-be33-d29a375f101c" name="Changes" comment="soting new updateg">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/santos/array/ArrTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/santos/datatypes/BigDecimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/santos/iostrems/ByteArraystream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/santos/linkedlist/LinkedListPrac1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/santos/map/linkedHashMap/LinkedHashMapPrac2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/CreateHashSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/CreateHashSetExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/CreateHashSetFromCollectionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/CreateHashSetFromCollectionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/HashSetRemoveExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/HashSetRemoveExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/HashSetSimpleOperationsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/HashSetSimpleOperationsExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/HashSetUserDefinedObjectExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/HashSetUserDefinedObjectExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/IterateOverHashSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/IterateOverHashSetExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/stream/DuplicateElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/stream/DuplicateElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/stream/FindMaxElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/stream/FindMaxElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/stream/FirstNonRepeated.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/stream/FirstNonRepeated.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/stream/StreamPractise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/stream/StreamPractise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/stream/WordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/hashset/src/stream/WordCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/list/ArrayListPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/list/ArrayListPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/list/ArrayListSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/list/ArrayListSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/list/ArraylistSortin_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/list/ArraylistSortin_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/list/LinkedListPrac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/list/LinkedListPrac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/list/LinkedListPrac_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/list/LinkedListPrac_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/list/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/list/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/map/HashMapPractise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/map/HashMapPractise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/map/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/map/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/map/linkedHashMap/LinkedHashMapPractise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/map/linkedHashMap/LinkedHashMapPractise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/map/treemap/TreeMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/map/treemap/TreeMapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/map/treemap/TreeMapTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/map/treemap/TreeMapTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/queue/src/IterateOverQueueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/queue/src/IterateOverQueueExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/queue/src/QueueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/queue/src/QueueExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/queue/src/QueueSizeSearchFrontExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/queue/src/QueueSizeSearchFrontExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/queue/src/QueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/queue/src/QueueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/santos/hashset/src/HashSetRemoveExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/santos/hashset/src/HashSetRemoveExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/santos/hashset/src/stream/FirstNonRepeated.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/santos/hashset/src/stream/FirstNonRepeated.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/santos/map/linkedHashMap/LinkedHashMapPractise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/santos/map/linkedHashMap/LinkedHashMapPractise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/santos/map/treemap/TreeMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/santos/map/treemap/TreeMapTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/santos/queue/src/QueueExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/santos/queue/src/QueueExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/santos/queue/src/QueueSizeSearchFrontExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/santos/queue/src/QueueSizeSearchFrontExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/santos/iostrems/ByteArraystream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/santos/iostrems/ByteArraystream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,12 +29,12 @@
     &quot;assignee&quot;: &quot;santosh226206&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/santosh226206/java_collection_sk&quot;,
-    &quot;accountId&quot;: &quot;c3f126cf-927b-4e83-b460-cbf599dac175&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/santosh226206/java_collection_sk",
+    "accountId": "cd0af181-7bd6-456a-8c3f-0d8c540887a7"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://C:/Program Files/Java/jdk-17.0.1/lib/src.zip!/java.base/java/lang/Integer.java" root0="SKIP_INSPECTION" />
     <setting file="jar://C:/Program Files/Java/jdk-17.0.1/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
@@ -122,6 +79,7 @@
     "Application.WordCount.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -447,7 +405,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743261989492</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="soting new updateg">
+      <option name="closed" value="true" />
+      <created>1765032624690</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1765032624690</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -464,11 +430,16 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/santos/map/HashMapPractise.java</url>
           <line>7</line>
-          <properties class="com.santos.map.HashMapPractise">
+          <properties class="com.santos.map.HashMapPractise" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/santos/iostrems/ByteArraystream.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
